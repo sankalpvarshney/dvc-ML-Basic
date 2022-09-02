@@ -7,8 +7,8 @@ stages:
       md5: 682fba5087db1e3768acc3dcee8d4aaf
       size: 326
     - path: src/stage_01_load_save.py
-      md5: e31351b1eef5fd12e5d50a32c3ff532c
-      size: 1165
+      md5: 8ecf7cee44024fa80c472623b3bec42a
+      size: 1144
     - path: src/utils/all_utils.py
       md5: a773c0255c93f8edc334f769501e2374
       size: 489
